@@ -19,7 +19,7 @@
 
 <h1 align="center">
       Hi 🙋‍♂️, Business Sponsor & Strong Code Pen ✏
-      <p>🌱 Odoo Platform & Spring Boot 🎨</p>
+      <p>🌱 Specialize Odoo Platform & Spring Boot 🎨</p>
 </h1>
 
 ![Github profile views](https://komarev.com/ghpvc/?username=carlsenior&color=blue&style=plastic&label=Github+Profile+views&base=1020)
