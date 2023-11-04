@@ -14,9 +14,15 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+
 <h1 align="center">
       Hi 🙋‍♂️, Business Sponsor & Strong Code Pen ✏
 </h1>
+
+![Github profile views](https://komarev.com/ghpvc/?username=carlsenior&color=blue&style=plastic&label=Github+Profile+views&base=1020)
+
 <div align="center">
   <img src="https://media.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif" width="600" height="300"/>
 </div>
@@ -75,10 +81,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlsenior&show_icons=true&layout=compact&theme=vision-friendly-dark)
 
-![Github profile views](https://komarev.com/ghpvc/?username=carlsenior&color=blue&style=plastic&label=Github+Profile+views&base=1020)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=carlsenior&column=-1&theme=onedark&margin-w=10)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=carlsenior&column=-1&theme=onedark&margin-w=10&no-bg=true)
 
 <!--
 **carlsenior/carlsenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
