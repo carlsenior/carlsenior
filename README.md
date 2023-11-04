@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/carlsenior">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
@@ -19,6 +19,7 @@
 
 <h1 align="center">
       Hi 🙋‍♂️, Business Sponsor & Strong Code Pen ✏
+      <p>🌱 Odoo Platform & Spring Boot 🎨</p>
 </h1>
 
 ![Github profile views](https://komarev.com/ghpvc/?username=carlsenior&color=blue&style=plastic&label=Github+Profile+views&base=1020)
@@ -29,13 +30,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> over 7 years from Greece.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web & mobile applications but heavy backend.
+- :telescope: Work as a Software Engineer and contributing to frontend & backend for building web & mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I go to scuber diving and read tech articles on LinkedIn and Medium.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-carleric-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carl-yanishikawa-28a27628b)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-carleric-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carl-yanishikawa-28a27628b) [![Linkedin Badge](https://img.shields.io/badge/-carleric-blue?style=flat&logo=Whatsapp&logoColor=white)](https://chat.whatsapp.com/KDMacLzgdrJ7Eeley7WRyz)
 
 ---
 
