@@ -1,4 +1,4 @@
-# Hi there 👋, Business Sponsor & Strong Code Pen
+# Hi 🙋‍♂️, Business Sponsor & Strong Code Pen ✏
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=carlsenior&column=-1&theme=onedark&margin-w=10)
 
