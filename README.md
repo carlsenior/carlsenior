@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=carlsenior&no-frame=true&column=-1&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
+
 <!--
 **carlsenior/carlsenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
