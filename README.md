@@ -1,4 +1,6 @@
+<!--
 # Hi 🙋‍♂️, Business Sponsor & Strong Code Pen ✏
+-->
 
 ![Github_cover_image copy](https://github.com/carlsenior/carlsenior/assets/135102284/6e880691-82f0-48ae-9075-327e07178224)
 
