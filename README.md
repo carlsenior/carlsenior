@@ -4,6 +4,9 @@
 
 ![Github_cover_image copy](https://github.com/carlsenior/carlsenior/assets/135102284/6e880691-82f0-48ae-9075-327e07178224)
 
+![Github profile views](https://komarev.com/ghpvc/?username=carlsenior&color=blue&style=plastic@label=Github Profile views)
+
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=carlsenior&column=-1&theme=onedark&margin-w=10)
 
 <!--
