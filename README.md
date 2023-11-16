@@ -25,7 +25,7 @@
 ![Github profile views](https://komarev.com/ghpvc/?username=carlsenior&color=blue&style=plastic&label=Github+Profile+views&base=1020)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="600" height="300"/>
 </div>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> over 7 years from Greece.
