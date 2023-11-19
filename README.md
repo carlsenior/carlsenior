@@ -82,12 +82,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 ![GitHub Streak](https://streak-stats.demolab.com/?user=carlsenior&theme=highcontrast)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlsenior&show_icons=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlsenior&show_icons=true&layout=compact&theme=dark)
 
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=carlsenior&column=-1&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=carlsenior&column=-1&margin-w=10?theme=onedark)
 
 <!--
 **carlsenior/carlsenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
