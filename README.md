@@ -87,7 +87,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=carlsenior&column=-1&margin-w=10?theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=carlsenior&column=-1&margin-w=10&theme=onedark)
 
 <!--
 **carlsenior/carlsenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
